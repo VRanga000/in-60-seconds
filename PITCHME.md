@@ -2,9 +2,9 @@
 
 ---
 
-## Add Some Slide Candy
+## The "old" way - deploy applications with dependencies into VMs 
 
-![](assets/img/presentation.png)
+![](assets/img/gumby.png)
 
 ---
 @title[Customize Slide Layout]
