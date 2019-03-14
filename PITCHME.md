@@ -1,4 +1,4 @@
-# Let's Get Started
+# Kubernetes Lift-And-Shift operator for Gumby
 
 ---
 
